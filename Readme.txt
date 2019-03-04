@@ -31,8 +31,8 @@ DDSR_e.m  	for SDDSR+ method
 
 If not, you can crop MR image into LR patches and then SR reconstruct them using our methods, you can run: 
  
-DDSR_crop.m for DDSR method
-DDSR_e_crop.m	for DDSR+ method
+DDSR_crop.m 	for DDSR method
+DDSR_e_crop.m 	for DDSR+ method
 DDSR_e_crop.m 	for SDDSR+ method
 
 
