@@ -1,7 +1,9 @@
 ***********************************************************************************************************
 ***********************************************************************************************************
-Testing codes and models for “3D Dense Convolutional Neural Network for Fast and Accurate Single MR Image Super-resolution Reconstruction” 
-and “Accelerated Super-resolution MR Image Reconstruction via a 3D Densely Connected Deep Convolutional Neural Network”.
+Testing codes and models for：
+
+1.  3D Dense Convolutional Neural Network for Fast and Accurate Single MR Image Super-resolution Reconstruction
+2.  Accelerated Super-resolution MR Image Reconstruction via a 3D Densely Connected Deep Convolutional Neural Network
 
 ### Citation
 If you find ththese work useful in your research, please consider citing:
